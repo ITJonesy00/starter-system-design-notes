@@ -12,6 +12,8 @@ Plan and decision note, draft and ideas
 - Legacy system 
 - Agility : Scrum 
 - Agility : Kanban
+Why Kanban becomes a resource optimization system ?
+
 
 2. tech
 
